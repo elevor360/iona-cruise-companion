@@ -9,3 +9,7 @@ Open the app online and confirm VERSION 4.2 · TEST at the top. If it still says
 This release uses a new service-worker cache name and versioned JavaScript/CSS URLs to help replace older cached versions. Existing V1–V4.1 data migrates in the same browser/site; export a backup before updating.
 
 No external P&O navigation links are included in the passenger app. Advertising URLs can still be entered by the site owner in advert-settings.json; these are separate from ship-guide links.
+
+V4.3: Removed duplicate home-screen shortcut buttons. Top navigation remains. V4.2 local data migrates automatically.
+
+VERSION 5: New cabin finder tab with locally saved cabin-number records, search, CSV import/export and offline use. No exact cabin coordinates are preloaded because they have not been verified. Existing V4.3 browser records migrate automatically. Make a backup before upgrading.
