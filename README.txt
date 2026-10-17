@@ -1,11 +1,13 @@
-Elevor360D Iona Cruise Companion V2
+Elevor360D Iona Cruise Companion VERSION 3 (TEST)
 
-Upload ALL extracted files to the root of your GitHub Pages repository, replacing V1. Open the site online once to load V2, then reload. Keep the same site origin/browser to migrate V1 local data. Back up personal data before updating.
+Upload ALL files in this ZIP to your existing GitHub Pages repository, replacing V2. Keep the same repository address so V1/V2 data migrates automatically. Back up data first.
 
-V2: deck selector (no invented cabin locations), saved venue favourites, multi-passenger drinks tracking, 6 am reset for new drink entries, V1 data migration, V1 planner/spending/ads and offline PWA retained.
+VERSION MARKER: VERSION 3 · TEST is shown in the main page heading to confirm updates. Remove this marker in the final release.
 
-IMPORTANT: This is an unofficial independent guide. Venue deck locations, cabin lookup, onboard schedules and drinks-package eligibility are NOT verified/live. Check P&O official ship materials and your sailing documents. No onboard account integration.
+NEW: Personal deck notes (decks 3–18); venue notes; venue search, category and favourites filtering; saved route back to cabin; more useful home summary. Existing drinks, cruise planner, spending, backup, advert manager, offline PWA and install button retained.
 
-Advertising: open advert-manager.html on your computer, export advert-settings.json and upload the exported file alongside the app.
+To update: upload extracted files including sw.js, wait for GitHub Pages to deploy, open the app while online and refresh. If V2 is still shown, close all app tabs and reopen, then refresh online.
 
-When installing: use HTTPS GitHub Pages; the browser may offer Install App in its own menu.
+Important: Deck notes and cabin routes are user-entered. This version does not invent cabin-to-deck mapping, precise venue positions, current events or package allowances. Check official onboard information.
+
+Advertising: edit with advert-manager.html, export advert-settings.json, upload it to the app directory.
