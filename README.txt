@@ -9,3 +9,5 @@ All V3 features are retained, including adverts, favourites, drinks, planner, sp
 Deck numbers are intentionally not fabricated. Confirm any deck or cabin information against the official current P&O Cruises deck plan. Internet is needed to open the official PDF.
 
 The version badge is for testing only and will be removed for the final release.
+
+V4.1: Removed all external P&O and deck-plan links from passenger app. Added offline ship-section schematic, cabin categories and saved cabin section. This is NOT a numbered cabin floor plan.
