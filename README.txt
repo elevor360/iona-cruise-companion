@@ -1,13 +1,11 @@
-Elevor360D Iona Cruise Companion VERSION 3 (TEST)
+Elevor360D Iona Cruise Companion — Version 4 TEST
 
-Upload ALL files in this ZIP to your existing GitHub Pages repository, replacing V2. Keep the same repository address so V1/V2 data migrates automatically. Back up data first.
+Upload ALL extracted files to the root of your GitHub Pages repository, replacing V3. Keep filenames unchanged. Refresh while online; verify VERSION 4 · TEST at the top.
 
-VERSION MARKER: VERSION 3 · TEST is shown in the main page heading to confirm updates. Remove this marker in the final release.
+NEW: Official Iona deck-plan PDF link; user-editable deck assignment for each venue; deck-by-deck view of your personally assigned venues. These are PERSONAL notes and not official or live navigation.
 
-NEW: Personal deck notes (decks 3–18); venue notes; venue search, category and favourites filtering; saved route back to cabin; more useful home summary. Existing drinks, cruise planner, spending, backup, advert manager, offline PWA and install button retained.
+All V3 features are retained, including adverts, favourites, drinks, planner, spending, offline install and backup/restore. V3 saved data migrates when the app is updated at the same URL in the same browser. Export a backup first.
 
-To update: upload extracted files including sw.js, wait for GitHub Pages to deploy, open the app while online and refresh. If V2 is still shown, close all app tabs and reopen, then refresh online.
+Deck numbers are intentionally not fabricated. Confirm any deck or cabin information against the official current P&O Cruises deck plan. Internet is needed to open the official PDF.
 
-Important: Deck notes and cabin routes are user-entered. This version does not invent cabin-to-deck mapping, precise venue positions, current events or package allowances. Check official onboard information.
-
-Advertising: edit with advert-manager.html, export advert-settings.json, upload it to the app directory.
+The version badge is for testing only and will be removed for the final release.
