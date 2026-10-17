@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Crow\u2019s Nest",
+    "category": "Bar",
+    "deck": "Check current deck plan",
+    "description": "Panoramic lounge and drinks"
+  },
+  {
+    "name": "Anderson\u2019s",
+    "category": "Bar",
+    "deck": "Check current deck plan",
+    "description": "Cocktail and lounge venue"
+  },
+  {
+    "name": "Brodie\u2019s",
+    "category": "Bar",
+    "deck": "Check current deck plan",
+    "description": "Pub-style venue"
+  },
+  {
+    "name": "The 710 Club",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Live music; booking may be required"
+  },
+  {
+    "name": "The Club House",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Activities and entertainment"
+  },
+  {
+    "name": "Headliners Theatre",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Stage shows"
+  },
+  {
+    "name": "SkyDome",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Pool and entertainment space"
+  },
+  {
+    "name": "Ocean Studios",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Cinema"
+  },
+  {
+    "name": "The Quays",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Informal dining"
+  },
+  {
+    "name": "The Glass House",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Wine and dining"
+  },
+  {
+    "name": "The Keel & Cow",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Speciality dining"
+  },
+  {
+    "name": "Sindhu",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Indian-inspired speciality dining"
+  },
+  {
+    "name": "The Limelight Club",
+    "category": "Dining & Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Dining and performance venue"
+  }
+]
