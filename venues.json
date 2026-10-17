@@ -1,18 +1,18 @@
 [
   {
-    "name": "Crow\u2019s Nest",
+    "name": "Crow’s Nest",
     "category": "Bar",
-    "deck": "Check current deck plan",
+    "deck": "17",
     "description": "Panoramic lounge and drinks"
   },
   {
-    "name": "Anderson\u2019s",
+    "name": "Anderson’s",
     "category": "Bar",
     "deck": "Check current deck plan",
     "description": "Cocktail and lounge venue"
   },
   {
-    "name": "Brodie\u2019s",
+    "name": "Brodie’s",
     "category": "Bar",
     "deck": "Check current deck plan",
     "description": "Pub-style venue"
@@ -20,61 +20,121 @@
   {
     "name": "The 710 Club",
     "category": "Entertainment",
-    "deck": "Check current deck plan",
+    "deck": "6–7",
     "description": "Live music; booking may be required"
   },
   {
     "name": "The Club House",
     "category": "Entertainment",
-    "deck": "Check current deck plan",
+    "deck": "8",
     "description": "Activities and entertainment"
   },
   {
     "name": "Headliners Theatre",
     "category": "Entertainment",
-    "deck": "Check current deck plan",
+    "deck": "7–8",
     "description": "Stage shows"
   },
   {
     "name": "SkyDome",
     "category": "Entertainment",
-    "deck": "Check current deck plan",
+    "deck": "16–17",
     "description": "Pool and entertainment space"
   },
   {
     "name": "Ocean Studios",
     "category": "Entertainment",
-    "deck": "Check current deck plan",
+    "deck": "6–7",
     "description": "Cinema"
   },
   {
     "name": "The Quays",
     "category": "Dining",
-    "deck": "Check current deck plan",
+    "deck": "8",
     "description": "Informal dining"
   },
   {
     "name": "The Glass House",
     "category": "Dining",
-    "deck": "Check current deck plan",
+    "deck": "6, 8",
     "description": "Wine and dining"
   },
   {
     "name": "The Keel & Cow",
     "category": "Dining",
-    "deck": "Check current deck plan",
+    "deck": "8",
     "description": "Speciality dining"
   },
   {
     "name": "Sindhu",
     "category": "Dining",
-    "deck": "Check current deck plan",
+    "deck": "8",
     "description": "Indian-inspired speciality dining"
   },
   {
     "name": "The Limelight Club",
     "category": "Dining & Entertainment",
-    "deck": "Check current deck plan",
+    "deck": "8",
     "description": "Dining and performance venue"
+  },
+  {
+    "name": "Grand Atrium",
+    "category": "Entertainment",
+    "deck": "6–8",
+    "description": "Multi-level central atrium and events area"
+  },
+  {
+    "name": "The Olive Grove",
+    "category": "Dining",
+    "deck": "8",
+    "description": "Mediterranean-inspired dining"
+  },
+  {
+    "name": "Horizon Restaurant",
+    "category": "Dining",
+    "deck": "16",
+    "description": "Buffet dining"
+  },
+  {
+    "name": "The Beach House",
+    "category": "Dining",
+    "deck": "16",
+    "description": "Speciality dining"
+  },
+  {
+    "name": "Epicurean",
+    "category": "Dining",
+    "deck": "17",
+    "description": "Speciality restaurant"
+  },
+  {
+    "name": "Sky Bar",
+    "category": "Bar",
+    "deck": "17–18",
+    "description": "Outdoor bar area"
+  },
+  {
+    "name": "Laguna Bar",
+    "category": "Bar",
+    "deck": "16",
+    "description": "Poolside drinks"
+  },
+  {
+    "name": "Sunset Bar",
+    "category": "Bar",
+    "deck": "8",
+    "description": "Outdoor bar"
+  },
+  {
+    "name": "Emerald Bar",
+    "category": "Bar",
+    "deck": "7",
+    "description": "Atrium bar"
+  },
+  {
+    "name": "The Live Lounge",
+    "category": "Entertainment",
+    "deck": "8",
+    "description": "Live entertainment venue"
   }
 ]
