@@ -7,3 +7,5 @@ New: offline venue directory with published deck locations where identifiable, s
 No external P&O booking/deck-plan links are included in the passenger app. Independent unofficial guide; verify details and accessible routes onboard.
 
 IMPORTANT: Your personal data is stored in the browser. Updating on the same domain/browser migrates data from V6. Do not delete site storage.
+
+V7.1: Entertainment now uses only the category filter (search removed). Bars & Dining search remains. Updated cache and version label.
