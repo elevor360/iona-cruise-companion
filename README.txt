@@ -1,13 +1,11 @@
-Elevor360D Iona Cruise Companion — Version 4 TEST
+Elevor360D Iona Cruise Companion V4.2 TEST — LINK REMOVAL FIX
 
-Upload ALL extracted files to the root of your GitHub Pages repository, replacing V3. Keep filenames unchanged. Refresh while online; verify VERSION 4 · TEST at the top.
+This package removes external P&O and deck-plan links. The Deck Guide and My Cabin pages now contain an INTERNAL schematic only. It is not a precise numbered cabin floor plan.
 
-NEW: Official Iona deck-plan PDF link; user-editable deck assignment for each venue; deck-by-deck view of your personally assigned venues. These are PERSONAL notes and not official or live navigation.
+IMPORTANT: Upload ALL extracted files to the ROOT of the SAME GitHub Pages repository, replacing index.html, app.js, sw.js, style.css and all others. Do not upload the ZIP as a single file. Wait for GitHub Pages to deploy.
 
-All V3 features are retained, including adverts, favourites, drinks, planner, spending, offline install and backup/restore. V3 saved data migrates when the app is updated at the same URL in the same browser. Export a backup first.
+Open the app online and confirm VERSION 4.2 · TEST at the top. If it still says V4 or V4.1, the old app is being served: close the installed app, open the website in a browser, refresh twice. If needed, clear ONLY this site's cached files/service worker (not its site data), then reopen. Do not clear site storage without exporting your backup first.
 
-Deck numbers are intentionally not fabricated. Confirm any deck or cabin information against the official current P&O Cruises deck plan. Internet is needed to open the official PDF.
+This release uses a new service-worker cache name and versioned JavaScript/CSS URLs to help replace older cached versions. Existing V1–V4.1 data migrates in the same browser/site; export a backup before updating.
 
-The version badge is for testing only and will be removed for the final release.
-
-V4.1: Removed all external P&O and deck-plan links from passenger app. Added offline ship-section schematic, cabin categories and saved cabin section. This is NOT a numbered cabin floor plan.
+No external P&O navigation links are included in the passenger app. Advertising URLs can still be entered by the site owner in advert-settings.json; these are separate from ship-guide links.
