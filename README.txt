@@ -13,3 +13,5 @@ No external P&O navigation links are included in the passenger app. Advertising 
 V4.3: Removed duplicate home-screen shortcut buttons. Top navigation remains. V4.2 local data migrates automatically.
 
 VERSION 5: New cabin finder tab with locally saved cabin-number records, search, CSV import/export and offline use. No exact cabin coordinates are preloaded because they have not been verified. Existing V4.3 browser records migrate automatically. Make a backup before upgrading.
+
+VERSION 6: Interactive deck orientation diagram (schematic only), deck selection, cabin markers from saved/imported records, persistent notes. Verified exact cabin locations and lift/stair geometry are NOT included. V5 data migrates in the same browser and origin. The diagram does not reproduce P&O copyrighted floor plans. Back up before upgrading.
