@@ -1,6 +1,7 @@
-Elevor360D Iona Cruise Companion V12
+Elevor360D Iona Cruise Companion V13 TEST
 
-New: Port day organiser within My Cruise. Record destinations, excursion meeting times, personal return reminders and notes. These are manually entered, not official all-aboard times.
-Fixed: Packing checklist CSV export.
+Upload all extracted files to your existing GitHub Pages repository. Refresh online and check VERSION 13 TEST. Back up existing data before updating.
 
-Back up your V11 data in Settings before uploading these files to the existing GitHub Pages repository. Replace all files and refresh while online. VERSION 12 TEST should appear at the top.
+New: edit saved port days, export port days CSV, retained packing list and existing features. Port return reminders are manually saved notes, NOT notifications or official all-aboard times.
+
+This is an independent unofficial guide.
