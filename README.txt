@@ -1,10 +1,7 @@
-Elevor360D Iona Cruise Companion V16 - Free Customer App
+Elevor360D Iona Cruise Companion V17 — Free Customer App
 
-Upload all files to the same public GitHub Pages repository, replacing V15.1.
-Do not upload the private advertising manager.
+NEW: Search within passenger Information by heading or text, with matching section count. The last successful online information check is remembered. Existing information updates, advertisements, cabin guide, drinks, planner, packing, backup and offline functionality remain.
 
-NEW: Information page has a Check for information updates button. The latest successfully fetched information.json is saved for offline reading. Ads continue to support JPG filenames from the repository.
+Upload extracted files to the existing GitHub Pages repository. IMPORTANT: preserve your customised information.json, advert-settings.json and any uploaded JPG files; do not replace them with sample versions. Back up personal data before updating. Keep the private manager separate.
 
-Keep your existing advert-settings.json and information.json if they contain your published changes: do not overwrite those with sample files. Back up personal data before updating.
-
-Version indicator stays during testing and will be removed for final release.
+The VERSION 17 TEST label will be removed in the final release.
