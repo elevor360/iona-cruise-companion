@@ -1,15 +1,9 @@
-Elevor360D Iona Cruise Companion VERSION 7 TEST
+Elevor360D Iona Cruise Companion V9
 
-Upload all files from this folder to the same GitHub Pages repository. Refresh online after deployment. Back up your personal records before updating.
+Version 9 adds a date filter and editing for saved Daily Planner activities. Existing V8 information is migrated automatically on the same browser and origin.
 
-New: offline venue directory with published deck locations where identifiable, searchable facilities finder, updated deck-guide venue display. Multi-deck venue labels indicate that a venue spans or is shown on multiple decks; exact entrances are not guaranteed. Saved personal venue deck overrides remain in effect.
+INSTALL: Extract all files into the root of your GitHub Pages repository, replacing older files. Wait for deployment and reload online. Confirm VERSION 9 · TEST.
 
-No external P&O booking/deck-plan links are included in the passenger app. Independent unofficial guide; verify details and accessible routes onboard.
+IMPORTANT: Download a JSON backup in Settings before upgrading. The deck diagram is schematic, not an exact cabin floor plan. Information is unofficial and must be checked onboard.
 
-IMPORTANT: Your personal data is stored in the browser. Updating on the same domain/browser migrates data from V6. Do not delete site storage.
-
-V7.1: Entertainment now uses only the category filter (search removed). Bars & Dining search remains. Updated cache and version label.
-
-Version 7.2: Deck Guide now has a Show venue deck information button, listing matching venues and facilities without external links.
-
-Version 8: favourites shortcut, sorted activity planner, drinks remaining and over-limit warning. Version indicator is temporary.
+The advertising manager is included unchanged.
