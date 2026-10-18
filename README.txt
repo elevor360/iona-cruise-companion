@@ -1,9 +1,7 @@
-Elevor360D Iona Cruise Companion V9
+Elevor360D Iona Cruise Companion V10
 
-Version 9 adds a date filter and editing for saved Daily Planner activities. Existing V8 information is migrated automatically on the same browser and origin.
+New: home-screen cruise countdown and next planned activity; export daily planner to CSV. Existing Version 9 date filtering and editing remain.
 
-INSTALL: Extract all files into the root of your GitHub Pages repository, replacing older files. Wait for deployment and reload online. Confirm VERSION 9 · TEST.
+INSTALL: Back up data in Settings. Extract ZIP contents and upload all files to the same GitHub Pages repository, replacing previous files. Refresh online and confirm VERSION 10 · TEST.
 
-IMPORTANT: Download a JSON backup in Settings before upgrading. The deck diagram is schematic, not an exact cabin floor plan. Information is unofficial and must be checked onboard.
-
-The advertising manager is included unchanged.
+Existing data from V9 and earlier migrates when opened on the same browser and website. Deck layouts remain schematic; verify onboard information. This is an unofficial guide.
