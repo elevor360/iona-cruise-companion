@@ -1,7 +1,6 @@
-Elevor360D Iona Cruise Companion V11
+Elevor360D Iona Cruise Companion V12
 
-New: Offline packing checklist with preloaded suggestions, custom items, category sections, progress indicator, reset ticks and CSV export. All V10 features retained.
+New: Port day organiser within My Cruise. Record destinations, excursion meeting times, personal return reminders and notes. These are manually entered, not official all-aboard times.
+Fixed: Packing checklist CSV export.
 
-INSTALL: Back up in Settings, upload all ZIP contents to the existing GitHub Pages repository, and refresh online. Confirm VERSION 11 · TEST.
-
-Data migrates from V10 and earlier when using the same website/browser. Keep a backup before updating. Unofficial passenger guide; verify onboard information.
+Back up your V11 data in Settings before uploading these files to the existing GitHub Pages repository. Replace all files and refresh while online. VERSION 12 TEST should appear at the top.
