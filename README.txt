@@ -1,4 +1,10 @@
-Iona Cruise Companion V15 — Free Customer App
-Upload all files to the same GitHub Pages repository, replacing V14. Keep information.json in the root with index.html. The Information page loads updates when online and uses cached information offline after a successful visit. Back up app data before updating. Do not upload the private manager.
+Elevor360D Iona Cruise Companion V16 - Free Customer App
 
-V15.1: For adverts, upload your JPG beside index.html in GitHub and enter its exact filename in the private manager. Upload exported advert-settings.json to the same folder. GitHub filenames are case-sensitive.
+Upload all files to the same public GitHub Pages repository, replacing V15.1.
+Do not upload the private advertising manager.
+
+NEW: Information page has a Check for information updates button. The latest successfully fetched information.json is saved for offline reading. Ads continue to support JPG filenames from the repository.
+
+Keep your existing advert-settings.json and information.json if they contain your published changes: do not overwrite those with sample files. Back up personal data before updating.
+
+Version indicator stays during testing and will be removed for final release.
