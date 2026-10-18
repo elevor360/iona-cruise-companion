@@ -11,3 +11,5 @@ IMPORTANT: Your personal data is stored in the browser. Updating on the same dom
 V7.1: Entertainment now uses only the category filter (search removed). Bars & Dining search remains. Updated cache and version label.
 
 Version 7.2: Deck Guide now has a Show venue deck information button, listing matching venues and facilities without external links.
+
+Version 8: favourites shortcut, sorted activity planner, drinks remaining and over-limit warning. Version indicator is temporary.
