@@ -6,3 +6,13 @@
 .visual-guide{margin:16px 0;padding:16px;border:1px solid #9baec0;border-radius:14px;background:#f2f7fb;color:#102944}.orientation-strip{display:flex;justify-content:space-between;font-size:.75rem;font-weight:700;margin:12px 0}.zone-strip{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:4px}.zone-tile{background:#dcebf4;border:1px solid #afc9d9;border-radius:9px;padding:9px 5px;min-height:95px;overflow-wrap:anywhere}.zone-tile strong{display:block;font-size:.78rem}.zone-tile small{display:block;font-size:.7rem}.cabin-chip{display:block;border-radius:5px;background:#fff;padding:3px;margin-top:4px;font-size:.7rem}.guide-key{display:flex;flex-wrap:wrap;gap:12px;font-size:.8rem;margin-top:12px}@media(max-width:540px){.zone-tile{padding:6px 2px}.zone-tile strong{font-size:.64rem}.zone-tile small,.cabin-chip{font-size:.6rem}}
 
 .info-body{white-space:normal;line-height:1.7;overflow-wrap:anywhere}
+
+/* Version 19: printable My Day itinerary */
+@media print {
+  header, nav, footer, #install, button, .actions {display:none !important}
+  body {background:white !important;color:black !important}
+  main {width:100% !important;max-width:none !important;margin:0 !important;padding:0 !important}
+  .card {break-inside:avoid;box-shadow:none !important;border:1px solid #ccc !important;color:black !important}
+  input[type=date] {border:0 !important;color:black !important}
+  .muted {color:#444 !important}
+}
