@@ -1,7 +1,11 @@
-Elevor360D Iona Cruise Companion V13 TEST
+Elevor360D Iona Cruise Companion V14 — FREE CUSTOMER APP
 
-Upload all extracted files to your existing GitHub Pages repository. Refresh online and check VERSION 13 TEST. Back up existing data before updating.
+Upload ONLY these files to the public GitHub Pages repository.
+Do NOT upload advert-manager.html or the private owner ZIP.
 
-New: edit saved port days, export port days CSV, retained packing list and existing features. Port return reminders are manually saved notes, NOT notifications or official all-aboard times.
+The advert-settings.json file is public display configuration, not a password or private management interface. The app reads it online and caches it for offline use.
 
-This is an independent unofficial guide.
+Before updating: use Settings > Download backup JSON.
+Upload all files, allow GitHub Pages to deploy, reopen while online and check VERSION 14 · TEST.
+
+Existing local records should remain if the site URL and browser storage stay the same.
