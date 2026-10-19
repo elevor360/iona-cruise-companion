@@ -1,11 +1,5 @@
-Elevor360D Iona Cruise Companion V19 — customer PWA
+Elevor360D Iona Cruise Companion V20.1 — Customer PWA
 
-Updates:
-- My Day now has Print / Save My Day (uses browser print dialog; PDF available on supported devices).
-- Home shows packing progress.
-- Home drinks counter uses the same 6am tracking window and active passenger as the Drinks page.
-- Local date handling improved.
+CSV export buttons replaced by Print / Save as PDF for packing checklist, cabin directory, daily plans, port days, and holiday spending. The cabin CSV IMPORT remains available so verified cabin data can still be loaded. Print opens a formatted page and the device's print dialog lets passengers print or choose Save as PDF. The print window may require pop-ups to be allowed. All reports work from saved offline data.
 
-Update GitHub Pages using the contents of this ZIP. Preserve your existing customised information.json, advert-settings.json and JPG adverts; do not overwrite them with examples. Make a personal-data backup before updating. Refresh online and confirm VERSION 19 · TEST.
-
-Private Advertising & Information Manager V2.1 stays separate. This is an independent unofficial guide. Times and onboard details must be confirmed with P&O.
+Make a backup before replacing the files in GitHub Pages. Keep your customised information.json, advert-settings.json and JPG images. Verify VERSION 20.1 · TEST after refreshing online. The private advertising/information manager remains separate.
