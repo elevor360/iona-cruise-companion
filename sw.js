@@ -1,5 +1,5 @@
-const CACHE='iona-v22-release-20261019';
-const ASSETS=['./','./index.html','./style.css?v=22','./app.js?v=22','./manifest.webmanifest','./icon.svg','./share-qr.png','./venues.json','./advert-settings.json','./information.json'];
+const CACHE='iona-v23-ads-20261102';
+const ASSETS=['./','./index.html','./style.css?v=23ads','./app.js?v=23ads','./manifest.webmanifest','./icon.svg','./share-qr.png','./venues.json','./advert-settings.json','./information.json','./advertising.js?v=23ads','./ad-config.json','./advertising/adverts.json','./advertising/images/elevor360d-promo.jpg'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('iona-v')&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{if(event.request.method!=='GET')return;const url=new URL(event.request.url);if(url.origin!==self.location.origin)return;event.respondWith(fetch(event.request,{cache:'no-store'}).then(response=>{if(response.ok){const copy=response.clone();event.waitUntil(caches.open(CACHE).then(cache=>cache.put(event.request,copy)))}return response}).catch(()=>caches.match(event.request)))});
