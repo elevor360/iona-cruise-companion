@@ -1,37 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:34:09.878Z",
   "rotationSeconds": 8,
   "ads": [
     {
-      "id": "elevor-apps",
+      "id": "iona-example",
+      "title": "Discover more Elevor360D apps",
       "type": "own",
-      "title": "See the full range",
-      "business": "Elevor360D",
+      "active": true,
+      "target": "cruise",
+      "appIds": [],
+      "start": "",
+      "end": "",
       "url": "https://elevor360d.co.uk/",
-      "image": "images/Elevor360D_Apps_Advert_2_SMALL.jpg",
-      "active": true,
-      "start": "",
-      "end": "",
-      "weight": 1,
-      "target": "all",
-      "appIds": [],
-      "description": ""
-    },
-    {
-      "id": "villa-select",
-      "type": "paid",
-      "title": "Villa Select – Your Perfect Villa Holiday",
-      "business": "travel",
-      "url": "https://www.paidonresults.net/c/63151/1/88/0",
-      "image": "images/villa-select-banner.png",
-      "active": true,
-      "start": "",
-      "end": "",
-      "weight": 3,
-      "target": "all",
-      "appIds": [],
-      "description": ""
+      "image": "images/elevor360d-promo.jpg"
     }
   ]
 }
