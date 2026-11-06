@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T20:01:30.811Z",
+  "updatedAt": "2026-11-06T20:14:35.395Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -16,17 +16,17 @@
       "image": "images/elevor360d-promo.jpg"
     },
     {
-      "id": "villa",
+      "id": "villa-select",
       "type": "paid",
       "title": "Villa Select – Your Perfect Villa Holiday",
       "business": "travel",
-      "url": "https://www.paidonresults.net/c/63151/1/88/0",
+      "url": "https://www.paidonresults.net/c/63151/1/1735/0",
       "image": "images/villa-select-banner.png",
       "active": true,
       "start": "",
       "end": "",
-      "weight": 2,
-      "target": "cruise",
+      "weight": 1,
+      "target": "all",
       "appIds": [],
       "description": ""
     }
