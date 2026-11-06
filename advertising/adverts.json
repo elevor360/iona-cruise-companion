@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "updatedAt": "2026-11-06T19:44:39.727Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -13,6 +14,21 @@
       "end": "",
       "url": "https://elevor360d.co.uk/",
       "image": "images/elevor360d-promo.jpg"
+    },
+    {
+      "id": "villa",
+      "type": "paid",
+      "title": "Villa Select – Your Perfect Villa Holiday",
+      "business": "travel",
+      "url": "https://www.paidonresults.net/c/63151/1/88/0",
+      "image": "images/villa-select-banner",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 3,
+      "target": "all",
+      "appIds": [],
+      "description": ""
     }
   ]
 }
