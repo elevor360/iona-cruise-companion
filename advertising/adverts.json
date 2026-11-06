@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T19:44:39.727Z",
+  "updatedAt": "2026-11-06T19:51:26.910Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -21,12 +21,12 @@
       "title": "Villa Select – Your Perfect Villa Holiday",
       "business": "travel",
       "url": "https://www.paidonresults.net/c/63151/1/88/0",
-      "image": "images/villa-select-banner",
+      "image": "images/villa-select-banner.png",
       "active": true,
       "start": "",
       "end": "",
-      "weight": 3,
-      "target": "all",
+      "weight": 2,
+      "target": "cruise",
       "appIds": [],
       "description": ""
     }
