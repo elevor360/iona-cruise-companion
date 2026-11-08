@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T14:05:50.085Z",
+  "updatedAt": "2026-11-08T14:11:11.486Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -36,7 +36,7 @@
       "title": "Elevor360D Cruise Companion Apps",
       "business": "Elevor360D",
       "url": "https://elevor360d.co.uk/travel-companions.html",
-      "image": "images/Elevor360D Cruise Companions Banner",
+      "image": "images/Elevor360D Cruise Companions Banner.png",
       "active": true,
       "start": "",
       "end": "",
