@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T10:34:22.682Z",
+  "updatedAt": "2026-11-09T10:56:19.754Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -67,6 +67,21 @@
       "business": "WeGoTrip – Audio Tours & Experiences",
       "url": "https://wegotrip.tpk.lv/FUzYbI6e",
       "image": "images/wegotrip-banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
+    },
+    {
+      "id": "radical",
+      "type": "paid",
+      "title": "Radical Storage – Explore Hands-Free",
+      "business": "Radical Storage",
+      "url": "https://radicalstorage.tpk.lv/6stXnG1b",
+      "image": "images/radical-storage-banner.png",
       "active": true,
       "start": "",
       "end": "",
