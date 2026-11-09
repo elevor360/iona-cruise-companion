@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T09:57:52.025Z",
+  "updatedAt": "2026-11-09T10:31:05.719Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -52,6 +52,21 @@
       "business": "Klook",
       "url": "https://klook.tpk.lv/kHCFqzSE",
       "image": "images/Klook Mediterranean Adventures Banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
+    },
+    {
+      "id": "wegotrip",
+      "type": "paid",
+      "title": "WeGoTrip – Audio Tours & Experiences",
+      "business": "WeGoTrip – Audio Tours & Experiences",
+      "url": "https://wegotrip.tpk.lv/FUzYbI6e",
+      "image": "images/wegotrip-banner.jpg",
       "active": true,
       "start": "",
       "end": "",
