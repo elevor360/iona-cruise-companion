@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T10:56:19.754Z",
+  "updatedAt": "2026-11-09T16:21:51.207Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -82,6 +82,21 @@
       "business": "Radical Storage",
       "url": "https://radicalstorage.tpk.lv/6stXnG1b",
       "image": "images/radical-storage-banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
+    },
+    {
+      "id": "airhelp",
+      "type": "paid",
+      "title": "Airhelp Claims Company",
+      "business": "Airhelp",
+      "url": "https://airhelp.tpk.lv/QVD8oIOP",
+      "image": "images/AirHelp.png",
       "active": true,
       "start": "",
       "end": "",
