@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T14:11:11.486Z",
+  "updatedAt": "2026-11-09T09:57:52.025Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -37,6 +37,21 @@
       "business": "Elevor360D",
       "url": "https://elevor360d.co.uk/travel-companions.html",
       "image": "images/Elevor360D Cruise Companions Banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
+    },
+    {
+      "id": "klook",
+      "type": "paid",
+      "title": "Explore Activities & Experiences",
+      "business": "Klook",
+      "url": "https://klook.tpk.lv/kHCFqzSE",
+      "image": "images/Klook Mediterranean Adventures Banner.png",
       "active": true,
       "start": "",
       "end": "",
